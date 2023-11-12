@@ -4,14 +4,15 @@ html {
 
 img {
     color: rgb(243, 243, 235);
-    width: 7%;
-    margin-left: 47%; 
+    width: 4%;
+    margin-left: 48.5%; 
+    margin-top: 0%;
 }
 
 .menu {
     background-image: url("tree.jpg");
     width: 90%;
-    margin-top: 1%;
+    margin-top: 2%;
     margin-left: 5%;
     padding-bottom: 3%;
     border-radius: 500%;
@@ -26,9 +27,13 @@ h1, p {
 }
 
 h1 {
-    font-size: 150%;
-    margin-top: 0%;
+    font-size: 250%;
+    margin-top: 1%;
     margin-bottom: 0%;
+}
+
+p {
+    font-size: 130%;
 }
 
 #coffee {
