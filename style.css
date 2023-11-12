@@ -1,16 +1,19 @@
 html {
-    background-color: rgb(142, 252, 142);
+    background-color:rgb(115, 243, 3);
 }
 
 img {
     color: rgb(243, 243, 235);
-    width: 8%;
+    width: 5%;  
 }
 
 .menu {
     background-image: url("tree.jpg");
     max-width: 70%;
     margin-left: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 20px;
 }
 
 h1,
@@ -22,6 +25,7 @@ p {
 
 h1 {
     font-size: 300%;
+    margin-top: 10px;
 }
 
 #coffee {
