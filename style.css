@@ -25,7 +25,7 @@ h1, p {
 }
 
 h1 {
-    font-size: 300%;
+    font-size: 200%;
     margin-top: 0%;
     margin-bottom: 0%;
 }
@@ -34,12 +34,12 @@ h1 {
     text-align: left;
     margin-left: 20%;
     margin-bottom: 3%;
-    font-size: xx-large;
+    font-size: 200%;
 }
 
 #price {
     text-align: right;
     margin-top: -8%;
     margin-right: 20%;
-    font-size: xx-large;
+    font-size: 250%;
 }
