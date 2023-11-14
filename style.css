@@ -59,3 +59,21 @@ p {
     font-size: 230%;
     font-family: papyrus;
 }
+
+@media only screen and (max-width: 600px) {
+    H1 {
+        font-size: 150%;
+    }
+
+    p {
+        font-size: 130%;
+    }
+
+    #coffee {
+        font-size: 200%;
+    }
+
+    #price {
+        font-size: 230%;
+    }
+}
