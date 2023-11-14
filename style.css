@@ -62,7 +62,7 @@ p {
 
 @media only screen and (max-width: 600px) {
     H1 {
-        font-size: 100%;
+        font-size: 50%;
     }
 
     p {
