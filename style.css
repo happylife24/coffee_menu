@@ -62,18 +62,18 @@ p {
 
 @media only screen and (max-width: 600px) {
     H1 {
-        font-size: 200%;
+        font-size: 180%;
     }
 
     p {
-        font-size: 150%;
+        font-size: 100%;
     }
 
     #coffee {
-        font-size: 150%;
+        font-size: 100%;
     }
 
     #price {
-        font-size: 150%;
+        font-size: 100%;
     }
 }
