@@ -29,20 +29,17 @@ h1, p {
     font-weight: 1000;
     color: white;
     margin-left: 1%;
-    overflow: auto;
 }
 
 
 h1 {
     font-size: 200%;
     margin-bottom: 0%;
-    overflow: auto;
 }
 
 
 p {
     font-size: 130%;
-    overflow: auto;
 }
 
 
@@ -53,7 +50,6 @@ p {
     margin-left: 20%;
     font-size: 200%;
     font-family: papyrus;
-    overflow: auto;
 }
 
 
@@ -63,6 +59,5 @@ p {
     margin-right: 28%;
     font-size: 230%;
     font-family: papyrus;
-    overflow: auto;
 }
 
