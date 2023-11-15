@@ -2,9 +2,6 @@ html {
     background-color:rgb(115, 243, 3);
 }
 
-.menu {
-    overflow: auto;
-}
 
 
 img {
@@ -23,6 +20,7 @@ img {
     padding-top: 1%;
     padding-bottom: 5%;
     border-radius: 500%;
+    overflow: auto;
 }
 
 
@@ -64,6 +62,3 @@ p {
     font-family: papyrus;
 }
 
-@media only screen and (max-width: 600px) {
-    
-}
