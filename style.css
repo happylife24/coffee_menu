@@ -63,7 +63,28 @@ p {
 
 
 @media only screen and (max-width: 600px) {
-    img {
-        overflow: auto;
-    }    
+    .menu {
+        margin-top: auto;
+    }
+
+    
+    H1 {
+        font-size: 100%;
+    }
+
+    p {
+        font-size: 100%;
+    }
+
+    H1, p {
+        font-weight: 0;
+    }
+
+    #coffee {
+        font-size: 100%;
+    }
+
+    #price {
+        font-size: 100%;
+    }  
 }
