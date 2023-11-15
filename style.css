@@ -2,6 +2,10 @@ html {
     background-color:rgb(115, 243, 3);
 }
 
+.menu {
+    overflow: auto;
+}
+
 
 img {
     color: rgb(243, 243, 235);
@@ -61,7 +65,5 @@ p {
 }
 
 @media only screen and (max-width: 600px) {
-    body {
-        font-size: auto;
-    }
+    
 }
