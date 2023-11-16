@@ -68,6 +68,7 @@ p {
     .menu {
         background-image: none;
         background-color: rgb(187, 107, 107);
+        margin-top: 1%;
     }
 
     body {
