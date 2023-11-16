@@ -27,13 +27,13 @@ h1, p {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 1000;
     color: white;
-    margin-left: 1%;
+    
 }
 
 
 h1 {
     font-size: 200%;
-    margin-bottom: 0%;
+    
 }
 
 
@@ -43,10 +43,7 @@ p {
 
 
 #coffee {
-    text-align: left;
-    margin-top: 0;
-    margin-bottom: 2%;
-    margin-left: 20%;
+    
     font-size: 200%;
     font-family: papyrus;
 }
@@ -54,8 +51,6 @@ p {
 
 #price {
     text-align: right;
-    margin-top: -9%;
-    margin-right: 28%;
     font-size: 230%;
     font-family: papyrus;
 }
