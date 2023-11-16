@@ -71,11 +71,11 @@ p {
     }
     
     H1 {
-        font-size: 90%;
+        font-size: 100%;
     }
 
     p {
-        font-size: 90%;
+        font-size: 100%;
     }
 
     H1, p {
@@ -83,10 +83,10 @@ p {
     }
 
     #coffee {
-        font-size: 90%;
+        font-size: 100%;
     }
 
     #price {
-        font-size: 90%;
+        font-size: 100%;
     }  
 }
