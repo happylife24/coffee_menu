@@ -64,15 +64,15 @@ p {
 
 @media only screen and (max-width: 600px) {
     .menu {
-        margin-top: auto;
+        margin-top: 5%;
     }
     
     H1 {
-        font-size: 60%;
+        font-size: 80%;
     }
 
     p {
-        font-size: 60%;
+        font-size: 80%;
     }
 
     H1, p {
@@ -80,10 +80,10 @@ p {
     }
 
     #coffee {
-        font-size: 60%;
+        font-size: 80%;
     }
 
     #price {
-        font-size: 60%;
+        font-size: 80%;
     }  
 }
