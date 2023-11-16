@@ -69,24 +69,8 @@ p {
         background-color: rgb(187, 107, 107);
         width: 110%;
     }
-    
-    H1 {
-        font-size: 100%;
-    }
 
-    p {
-        font-size: 100%;
+    body {
+        font-size: 14px;
     }
-
-    H1, p {
-        font-weight: 0;
-    }
-
-    #coffee {
-        font-size: 100%;
-    }
-
-    #price {
-        font-size: 100%;
-    }  
 }
