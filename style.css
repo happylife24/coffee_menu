@@ -65,9 +65,9 @@ p {
 @media only screen and (max-width: 600px) {
     .menu {
         background-image: none;
-        margin-top: 40%;
+        margin-top: 30%;
         background-color: rgb(187, 107, 107);
-        width: 90%;
+        width: 110%;
     }
     
     H1 {
