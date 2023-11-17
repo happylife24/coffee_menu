@@ -72,6 +72,7 @@ h1 {
         background-color: rgb(187, 107, 107);
         border-radius: 0;
         height: 400%;
+        margin-top: 15%;
     }
     
 
@@ -105,5 +106,4 @@ h1 {
         font-size: 130%;
         font-family: papyrus;
     }
-    
 }
