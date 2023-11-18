@@ -72,13 +72,13 @@ h1 {
         background-color: rgb(187, 107, 107);
         border-radius: 0;
         height: 400%;
-        margin-top: 5%;
+        margin-top: 8%;
     }
     
 
     h1 {
         font-size: 150%;
-        margin-top: 10%;
+        margin-top: 5%;
         margin-bottom: 0%;
     }
     
@@ -92,8 +92,8 @@ h1 {
     #coffee {
         text-align: left;
         margin-top: 0;
-        margin-bottom: 2%;
-        margin-left: 10%;
+        margin-bottom: 0;
+        margin-left: -3%;
         font-size: 130%;
         font-family: papyrus;
     }
@@ -101,8 +101,9 @@ h1 {
     
     #price {
         text-align: right;
-        margin-top: -5%;
-        margin-right: 18%;
+        margin-top: 1%;
+        margin-bottom: 0;
+        margin-right: 8%;
         font-size: 130%;
         font-family: papyrus;
     }
