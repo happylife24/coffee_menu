@@ -75,6 +75,12 @@ h1 {
         margin-top: 8%;
     }
     
+    img {
+        color: rgb(243, 243, 235);
+        width: 8%;
+        margin-left: 46.5%; 
+        margin-top: 1%;
+    }
 
     h1 {
         font-size: 150%;
@@ -84,7 +90,8 @@ h1 {
     
     
     #year {
-        font-size: 110%;
+        font-size: 100%;
+        margin-top: 0;
         margin-bottom: 10%;
     }
     
