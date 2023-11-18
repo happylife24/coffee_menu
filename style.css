@@ -67,9 +67,14 @@ h1 {
 
 
 @media only screen and (max-width: 600px) {
+    body {
+        background-color: rgb(243, 148, 66);
+    }
+
+
     .menu {
         background-image: none;
-        background-color: rgb(187, 107, 107);
+        background-color: rgb(77, 7, 7);
         border-radius: 0;
         height: 400%;
         margin-top: 8%;
