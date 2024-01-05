@@ -67,14 +67,10 @@ h1 {
 }
 
 #btn {
-    margin-top: 2%;
-    width: 10%;
-    height: 1%;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    padding-right: 1%;
-    border: 5px solid greenyellow;
-    border-radius: 50%;
+    font-size: 0.4em;
+    height: 31.2px;
+    padding: 5px 5px;
+    margin-top: 15px;
     cursor: pointer; 
 }
 
@@ -83,6 +79,7 @@ h1 {
     justify-content: right;
     gap: 3vw;
 }
+
 
 @media only screen and (max-width: 600px) {
     .menu {
@@ -134,5 +131,25 @@ h1 {
         margin-right: 8%;
         font-size: 130%;
         font-family: papyrus;
+    }
+
+    #btn {
+        font-size: 0.5em;
+        width: 58px;
+        padding-top: 10px; 
+        padding-bottom: 20px;
+        padding-left: 5px;
+        padding-right: 8px;
+        margin-top: 1px;
+        cursor: pointer; 
+    }
+}
+
+
+@media only screen and (max-width: 400px) {
+    #btn {
+        font-size: 0.7em;
+        width: 75px;
+        height: 24px;
     }
 }
