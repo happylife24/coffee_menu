@@ -2,6 +2,8 @@
 Link: https://happylife24.github.io/coffee_menu/
 <br>
 <br>
+This is a responsive website for mobile and desktop.
+<br>
 <br>
 Languages:
 <ul>
